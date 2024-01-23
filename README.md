@@ -7,7 +7,7 @@
 <br><br><br>
 
 **Blog**<br>
-<img src="https://img.shields.io/badge/Naver Blog-green? style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/it_gombi"/></a>
+<img src="https://img.shields.io/badge/Naver Blog-green? style=flat-square&logo=blogger&logoColor=white&link="https://blog.naver.com/it_gombi"/></a>
 <br><br>
 
 **Tech Stack**
