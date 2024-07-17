@@ -34,9 +34,8 @@
 
 <br><br>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=gyurili&column=3&margin-w=15&margin-h=15)<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gyurili&theme=transparent&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=gyurili&column=3&margin-w=15&margin-h=15)<br><br>
 
 </div>
