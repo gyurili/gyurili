@@ -6,6 +6,7 @@
 👋 Welcome my Github profile !
 <br><br><br>
 
+
 **Blog**<br>
 [<img src="https://img.shields.io/badge/Naver Blog-green? style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/it_gombi"/>](https://blog.naver.com/it_gombi)
 [<img src="https://img.shields.io/badge/Velog-20C997? style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@gyurili/posts"/>](https://velog.io/@gyurili/posts)
@@ -34,8 +35,7 @@
 
 <br><br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=gyurili&column=3&margin-w=15&margin-h=15)<br><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=gyurili&theme=flat&column=4)<br><br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyurili&theme=default)<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gyurili&theme=transparent&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
