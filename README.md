@@ -37,6 +37,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyurili&theme=default)<br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gyurili&theme=transparent&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gyurili&theme=transparent&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)<br><br>
 
 </div>
