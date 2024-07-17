@@ -34,6 +34,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyurili&layout=compact)](https://github.com/gyurili/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gyurili&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 </div>
