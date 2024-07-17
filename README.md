@@ -35,6 +35,6 @@
 <br><br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gyurili&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gyurili&theme=transparent&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 </div>
