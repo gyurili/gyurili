@@ -3,40 +3,98 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=gyurili&fontSize=60)
 
 <br>
+
 👋 Welcome my Github profile !
+
+<br>
+
+[<img src="https://img.shields.io/badge/Naver Blog-green?style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/it_gombi"/>](https://blog.naver.com/it_gombi)
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@gyurili/posts"/>](https://velog.io/@gyurili/posts)
+<br><br>
 <br><br><br>
 
 
-**Blog**<br>
-[<img src="https://img.shields.io/badge/Naver Blog-green? style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/it_gombi"/>](https://blog.naver.com/it_gombi)
-[<img src="https://img.shields.io/badge/Velog-20C997? style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@gyurili/posts"/>](https://velog.io/@gyurili/posts)
-<br><br>
+</div>
 
-**Tech Stack**
+## ✨ EXPERIENCES
+
+
+- ⚡ 코드잇 AI 엔지니어 부트캠프 1기  | **2025**
+- ✒️ 덕성 C언어 튜터링 우수멘토  | **2024**
+- 🦁 멋쟁이사자처럼 12기 BE 운영진  | **2024**
+- 🦁 멋쟁이사자처럼 11기 BE 부원  | **2023**
+- 🏫 스마일게이트 Hope Creator 3기  | **2022**
+
 <br>
-<img src="https://img.shields.io/badge/Python-3766AB? style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396? style=flat-square&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC? style=flat-square&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C? style=flat-square&logo=cplusplus&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/HTML-E34F26? style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6? style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E? style=flat-square&logo=javascript&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Django-092E20? style=flat-square&logo=django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/DRF-092E20? style=flat-square&logo=django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F? style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<br><br>
 
-**Tool**
+## 🎯 Project
+
+#### 2025
+
+- <a href="https://github.com/gyurili/2025-mnist-canvas">[코드잇] 손글씨 숫자 인식 앱 (MNIST 기반 ONNX 모델)</a> | **ONNX Runtime, Streamlit, Docker**
+- <a href="https://github.com/gyurili/2025-LLM-Project">[코드잇] 자연어 처리를 활용한 기업 및 정부 제안요청서(RFP) 내용 요약 챗봇</a> | **PyTorch, HuggingFace, openAI, fastAPI**
+- <a href="https://github.com/gyurili/2025-pill-vision">[코드잇] 경구약제 이미지 객체 검출 프로젝트</a> | **PyTorch, Torchvision**
+- <a href="https://github.com/gyurili/2025-hotel-DA">[코드잇] Hotel Booking Demand Analysis</a> | **Python Library**
+
+#### 2024
+
+- <a href="https://github.com/orgs/Bamsongee/repositories">[한이음] 식재료 인식 & 레시피 커뮤니티 서비스</a> | **SpringBoot, React**
+- <a href="https://github.com/orgs/2024-Edge/repositories">[한이음] 아누이노를 통한 환경 제어</a> | **SpringBoot, Arduino, AWS**
+- <a href="https://github.com/TeamViewMore">[멋쟁이사자처럼] 폭력 증거 기록 서비스</a> | **SpringBoot** | **🏆아이디어상**
+- <a href="https://github.com/gyurili/2024-Herethon-REBORN">[멋쟁이사자처럼] 리사이클링 커뮤니티 서비스</a> | **Django**
+- <a href="https://github.com/gyurili/2024-DSFest-BE">[덕성여자대학교] 공식 축제 사이트</a> | **SpringBoot**
+- <a href="https://github.com/gyurili/2024-Trendition-SIXPEC">[멋쟁이사자처럼] 목표 달성 기록장 서비스</a> | **DRF** | **🏆우수상**
+
+#### 2023
+
+- <a href="https://github.com/gyurili/2023-Likelion-wealth">[멋쟁이사자처럼] 헬스장 정보 서비스</a> | **Django**
+- <a href="https://github.com/gyurili/2023-LostDS">[전공] 교내 분실물 기록 커뮤니티 서비스</a> | **Django**
+
 <br>
-<img src="https://img.shields.io/badge/Github-181717? style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Discord-5865F2? style=flat-square&logo=discord&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-000000? style=flat-square&logo=notion&logoColor=white"/></a>
 
 
-<br><br>
+## 🛠️ Skills
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyurili&theme=default)<br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gyurili&theme=transparent&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)<br><br>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</div>
+
+
+<br>
+<br>
+
+## 🏆 Trophy 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gyurili)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
