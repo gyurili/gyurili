@@ -49,6 +49,7 @@
 
 - <a href="https://github.com/gyurili/2023-Likelion-wealth">[멋쟁이사자처럼] 헬스장 정보 서비스</a> | **Django**
 - <a href="https://github.com/gyurili/2023-LostDS">[전공] 교내 분실물 기록 커뮤니티 서비스</a> | **Django**
+- <a href="https://github.com/gyurili/2023-Likelion-Savior/tree/backend">[멋쟁이사자처럼] 해외 여행 물가 정보 서비스</a> | **Django**
 
 <br>
 
