@@ -38,7 +38,7 @@
 
 #### 2024
 
-- <a href="https://github.com/orgs/Bamsongee/repositories">[한이음] 식재료 인식 & 레시피 커뮤니티 서비스</a> | **SpringBoot, React**
+- <a href="https://github.com/Bamsongee">[한이음] 식재료 인식 & 레시피 커뮤니티 서비스</a> | **SpringBoot, React**
 - <a href="https://github.com/gyurili/2024-Edge-BE">[한이음] 아누이노를 통한 환경 제어</a> | **SpringBoot, Arduino, AWS**
 - <a href="https://github.com/TeamViewMore">[멋쟁이사자처럼] 폭력 증거 기록 서비스</a> | **SpringBoot** | **🏆아이디어상**
 - <a href="https://github.com/gyurili/2024-Herethon-REBORN">[멋쟁이사자처럼] 리사이클링 커뮤니티 서비스</a> | **Django**
