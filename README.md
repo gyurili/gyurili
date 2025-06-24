@@ -30,7 +30,7 @@
 ## 🎯 Project
 
 #### 2025
-
+- <a href="https://github.com/gyurili/2025-movie-sentiment">[코드잇] 영화 리뷰 감정 분석 앱</a> | **PyTorch, HuggingFace, Streamlit, FastAPI, GCP**
 - <a href="https://github.com/gyurili/2025-mnist-canvas">[코드잇] 손글씨 숫자 인식 앱 (MNIST 기반 ONNX 모델)</a> | **ONNX Runtime, Streamlit, Docker**
 - <a href="https://github.com/gyurili/2025-LLM-Project">[코드잇] 자연어 처리를 활용한 기업 및 정부 제안요청서(RFP) 내용 요약 챗봇</a> | **PyTorch, HuggingFace, openAI, fastAPI**
 - <a href="https://github.com/gyurili/2025-pill-vision">[코드잇] 경구약제 이미지 객체 검출 프로젝트</a> | **PyTorch, Torchvision**
