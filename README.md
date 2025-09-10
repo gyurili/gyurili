@@ -34,7 +34,7 @@
 - <a href="https://github.com/gyurili/2025-GEO-Project">[코드잇] 생성형 AI 기반 GEO 상세페이지 자동 생성 서비스</a> | **PyTorch, OpenAI, HuggingFace, GCP** | **🏆고용노동부 장관상**
 - <a href="https://github.com/gyurili/2025-movie-sentiment">[코드잇] 영화 리뷰 감정 분석 앱</a> | **PyTorch, HuggingFace, Streamlit, FastAPI, GCP**
 - <a href="https://github.com/gyurili/2025-mnist-canvas">[코드잇] 손글씨 숫자 인식 앱 (MNIST 기반 ONNX 모델)</a> | **ONNX Runtime, Streamlit, Docker**
-- <a href="https://github.com/gyurili/2025-RAG-Project">[코드잇] 자연어 처리를 활용한 기업 및 정부 제안요청서(RFP) 내용 요약 챗봇</a> | **PyTorch, OpenAI, HuggingFace, FastAPI**
+- <a href="https://github.com/gyurili/2025-RAG-Project">[코드잇] 자연어 처리(RAG)를 활용한 기업 및 정부 제안요청서 요약 챗봇</a> | **PyTorch, OpenAI, HuggingFace, FastAPI**
 - <a href="https://github.com/gyurili/2025-pill-vision">[코드잇] 경구약제 이미지 객체 검출 프로젝트</a> | **PyTorch, Torchvision**
 - <a href="https://github.com/gyurili/2025-hotel-DA">[코드잇] Hotel Booking Demand Analysis</a> | **Python Library**
 
