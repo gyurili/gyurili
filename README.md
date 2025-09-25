@@ -31,7 +31,7 @@
 ## 🎯 Project
 
 #### 2025
-- <a href="https://github.com/Revu-IT/REVUIT_AIRFLOW">[한이음] NLP를 활용한 이커머스 리뷰 데이터 자동 분석 서비스</a> | **Apache Airflow, OpenAI, HuggingFace, FastAPI** | **🏆한국정보산업연합회장상**
+- <a href="https://github.com/Revu-IT/REVUIT_AIRFLOW">[한이음] NLP를 활용한 이커머스 리뷰 데이터 분석 서비스</a> | **Apache Airflow, OpenAI, HuggingFace, FastAPI** | **🏆한국정보산업연합회장상**
 - <a href="https://github.com/gyurili/2025-GEO-Project">[코드잇] 생성형 AI 기반 GEO 상세페이지 자동 생성 서비스</a> | **PyTorch, OpenAI, HuggingFace, GCP** | **🏆고용노동부 장관상**
 - <a href="https://github.com/gyurili/2025-movie-sentiment">[코드잇] 영화 리뷰 감정 분석 앱</a> | **PyTorch, HuggingFace, Streamlit, FastAPI, GCP**
 - <a href="https://github.com/gyurili/2025-mnist-canvas">[코드잇] 손글씨 숫자 인식 앱 (MNIST 기반 ONNX 모델)</a> | **ONNX Runtime, Streamlit, Docker**
