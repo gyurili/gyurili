@@ -19,6 +19,7 @@
 ## ✨ EXPERIENCES
 
 
+- ⌨️ ZEP (Back-end Developer) | **2025~2025**
 - 🌐 오픈소스 컨트리뷰션 O-RAN AI/ML Framework 리드멘티 | **2025**
 - ⚡ 코드잇 AI 엔지니어 부트캠프 1기  | **2025**
 - ✒️ 덕성 Python 튜터링 우수멘토  | **2024**
