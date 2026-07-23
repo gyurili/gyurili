@@ -61,7 +61,7 @@
 
 ## 🛠️ Skills
 
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyurili&theme=default" width="370" />
+<img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=gyurili&langs_count=3&hide=jupyter%20notebook" width="350" />
 
 <div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
