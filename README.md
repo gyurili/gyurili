@@ -8,8 +8,9 @@
 
 <br>
 
-[<img src="https://img.shields.io/badge/Naver Blog-green?style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/it_gombi"/>](https://blog.naver.com/it_gombi)
-[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@gyurili/posts"/>](https://velog.io/@gyurili/posts)
+[<img src="https://img.shields.io/badge/Naver Blog-green?style=flat-square&logo=blogger&logoColor=white"/>](https://blog.naver.com/it_gombi)
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@gyurili/posts)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/parkgyuri1201)
 <br><br>
 <br><br><br>
 
